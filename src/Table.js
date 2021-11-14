@@ -1,6 +1,6 @@
 import React from "react";
 import TableRow from "./TableRow";
-import TableHeadItem from "./TableHead";
+import TableHeadItem from "./TableHeadItem";
 
 const Table = ({ theadData, tbodyData, customClass }) => {
     return (
